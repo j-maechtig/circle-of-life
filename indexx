@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous" />
+        <title>Una pincelada por la historia de la infografía</title>
+        <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@0;1&display=swap" rel="stylesheet" />
+        <style>
+            body {
+                font-family: "Libre Baskerville", serif;
+                font-weight: 400;
+            }
+            h1 {
+                font-weight: 400;
+                font-style: italic;
+            }
+            @media (min-width: 992px) {
+                p {
+                    line-height: 1.8;
+                    text-align: justify;
+                }
+            }
+        </style>
+    </head>
+    <body class="bg-light">
+        <div class="container">
+            <div class="row py-3">
+                <div class="col-12">
+                    <h1 class="py-4">Una pincelada por la historia de la infografía </h1>
+                    <p>La historia de la infografía se puede dividir en distintos capítulos, desde la cartografía a la ilustración y el arte renacentista. Dentro de estos periodos ocurrieron hitos que marcaron la importancia de la imágenes en conjunto con el escrito, por ejemplo la Biblia de Gutenberg, el primer gran libro impreso que contiene texto e imágenes que se complementan entre sí.</p>
+                    <p>Avanzando un poco en el tiempo, encontramos a Descartes, quien publico el discurso del método, ilustrado por Frans Van Schooten, ilustraciones que tenían una dimensión compleja dado que debían representar a los fenómenos de manera artística, es por ello que se le da importancia a la competencia estética.</p>
+                    <p>A pesar de esto, Platón y Galeno rechazaban el uso de imágenes puesto que según ellos eran engañosas, sin embargo mediante el arte renacentista hubo un cambio radical en este pensamiento, llegando a la conclusión de que las imágenes significan junto con el texto.</p>
+                    <p>Pero la primera infografía publicada se realizó en 1702 en <i>The Daily Courant</i> donde se publicó un mapa que explicaba el intento de toma de la Ciudad de Cadis. Estos son los inicios de la infografía.<p/>
+                </div>
+            </div>
+            <div class="row">
+                <!--Imagen 1-->
+                <figure class="col-12 col-lg-6">
+                    <img src="https://2.bp.blogspot.com/-FUSSVkitqSQ/UkhZMWaMSOI/AAAAAAAAAyE/oi1pAVikDvc/s1600/BIBLIA+DE+GUTENBERG.jpg" class="img-fluid" />
+                    <figcaption class="p-1 mb-2 small">Biblia de Gutenberg, 1455.</figcaption>
+                </figure>
+                <!--Imagen 2-->
+                <figure class="col-12 col-lg-6">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Descartes_Discours_de_la_Methode.jpg/250px-Descartes_Discours_de_la_Methode.jpg" class="img-fluid" />
+                    <figcaption class="p-1 mb-2 small">Discurso del Métedo, Descartes (1637).</figcaption>
+                </figure>
+                <!--Imagen 3-->
+                <figure class="col-12 col-lg-6">
+                    <img src="https://ia801206.us.archive.org/BookReader/BookReaderImages.php?zip=/12/items/bub_gb_p6Uz87poRdIC/bub_gb_p6Uz87poRdIC_jp2.zip&file=bub_gb_p6Uz87poRdIC_jp2/bub_gb_p6Uz87poRdIC_0359.jp2&id=bub_gb_p6Uz87poRdIC&scale=4&rotate=0" class="img-fluid" />
+                    <figcaption class="p-1 mb-2 small">Ilustración de Frans Van Schooten dentro del Discurso del Método.</figcaption>
+                </figure>
+                <!--Imagen 4-->
+                <figure class="col-12 col-lg-6">
+                    <img src="infog/platygal" class="img-fluid" />
+                    <figcaption class="p-1 mb-2 small">Galeno y Platón, principales opositores al uso de imágenes.</figcaption>
+                </figure>
+                <!--Imagen 5-->
+                <figure class="col-12 col-lg-6">
+                    <img src="https://www.caracteristicas.co/wp-content/uploads/2018/07/arte-renacentista-e1571802362634.jpg" class="img-fluid" />
+                    <figcaption class="p-1 mb-2 small">Pintura del periodo del Arte Renacentista.</figcaption>
+                </figure>
+                <!--Imagen 6-->
+                <figure class="col-12 col-lg-6">
+                    <img src="https://i2.wp.com/farm9.staticflickr.com/8190/8386521834_b83ed49558_n.jpg" class="img-fluid" />
+                    <figcaption class="p-1 mb-2 small"> Primera infografía publicada en <i>The Daily Courant</i>, 1702.</figcaption>
+                </figure>
+
+            </div>
+            <div class="row pt-5">
+                <footer class="col-12 py-3 border-top">
+                    <p>
+                        Javiera Maechtig <span class="float-right"><a href="https://github.com/profesorfaco/dno075-2020/">Infografía Digital</a> <span class="d-none d-lg-inline">&bull; Lunes 10 de agosto, 2020</span></span>
+                    </p>
+                </footer>
+            </div>
+        </div>
+    </body>
+</html>
